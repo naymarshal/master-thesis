@@ -1,0 +1,204 @@
+post_id,comment_id,comment_text,pos,neg,neu,compound,polarity
+A1,10154,🌹 🌹 🌹,0.0,0.0,1.0,0.0,neutral
+A1,10245,look how cute a beautiful flower,0.633,0.0,0.367,0.7845,strongly positive
+A1,10462,yesss   ❤️ ❤️ ❤️,0.0,0.0,1.0,0.0,neutral
+A1,11109,what happening under the camera,0.0,0.0,1.0,0.0,neutral
+A1,11420,why do we need so many pictures of the same outfit?,0.0,0.0,1.0,0.0,neutral
+A2,11788,🔥 🔥 ❤️,0.0,0.706,0.294,-0.5859,strongly negative
+A2,12247,"so cute, beauty, perfect looking, kiss my favorite model.",0.811,0.0,0.189,0.9527,strongly positive
+A2,12600,I know,0.0,0.0,1.0,0.0,neutral
+A2,12947,❤️ ❤️ ❤️ 🔥 🔥 🔥 ❤️‍ 🔥,0.0,0.545,0.455,-0.8225,strongly negative
+A2,13221,stunning adsolutly  😍,0.583,0.0,0.417,0.6808,strongly positive
+A2,13555,QUEEN KYLIE !!!  fashion week paris love you,0.396,0.135,0.468,0.6534,strongly positive
+A2,13654,I’m unfollowing I just woke up and I’m over y’all,0.0,0.0,1.0,0.0,neutral
+A3A,14042,has anyone told you that you’ve beautiful ears  👂,0.328,0.0,0.672,0.5994,strongly positive
+A3A,14047,🔥 🔥 🔥 ❤️ 🔥 ❤️ 🔥 🔥 😍 😍,0.197,0.474,0.329,-0.7506,strongly negative
+A3A,14213,y’all always have something to say,0.0,0.0,1.0,0.0,neutral
+A3A,14720,"I bought this saturday, didn’t know foundation was a thing for kylie cosmetic, but now I see it still has to be released? douglas was pre selling then. I wont just share what I think, but I wonder if you use it yourself?",0.0,0.06,0.94,-0.4003,negative
+A3A,14746,"happy MLK day  , can I have $50,000???",0.377,0.0,0.623,0.6416,strongly positive
+A3A,14848,OMG SO EXCITED  😍,0.733,0.0,0.267,0.8994,strongly positive
+A3B,15007,"interesting, different, unusual, but I like it.",0.505,0.0,0.495,0.6249,strongly positive
+A3B,15452,2x2 ✨ ✨ ✨,0.873,0.0,0.127,0.7096,strongly positive
+A4,16747,queen looks wonderfull can't wait.... ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️,0.0,0.0,1.0,0.0,neutral
+A4,16770,your shade range  👏 👏 👏,0.75,0.0,0.25,0.8402,strongly positive
+A5,17743,💛 FIRST  💛,0.737,0.0,0.263,0.8555,strongly positive
+A5,18546,😮 😍 😍,0.375,0.0,0.625,0.7184,strongly positive
+A5,18732,and she is  💅,0.0,0.0,1.0,0.0,neutral
+A5,18790,lbbb  🔥 🔥 🔥 😓 😮‍ 💨 😮‍ 💨 😮‍ 💨,0.0,0.312,0.688,-0.8402,strongly negative
+A6,19378,you’re glow,0.0,0.0,1.0,0.0,neutral
+A6,19673,"gente, eu postei um cover de greedy da tate mcrae. quem puder, vai lá curtir e marcar ela  🥹 ❤️
+.
+guys, I posted a cover of greedy by tate mcrae. whoever can, go like it and tag her  🥹 ❤️",0.053,0.098,0.849,-0.2732,negative
+A6,19884,❤️ ❤️ ❤️ ❤️ very beautiful and cute picture dear friend  ❤️ 💋 💋 happy,0.601,0.0,0.399,0.9704,strongly positive
+A7,21315,"looks bad, cheap material… we can get this from shein for $14 I’m sure you’re is about $40+",0.106,0.161,0.734,-0.296,negative
+A7,21510,the  ❤️ ❤️first  ❤️ ❤️one  ❤️ ❤️,0.0,0.0,1.0,0.0,neutral
+A7,22300,kylie cut the crap..,0.0,0.701,0.299,-0.5719,strongly negative
+A7,22714,pretty kylie,0.762,0.0,0.238,0.4939,positive
+A7,22942,is this at target,0.0,0.0,1.0,0.0,neutral
+B1,23682,and here I am lookin at the peach,0.0,0.0,1.0,0.0,neutral
+B1,23882,is this a “mr tucky”?,0.0,0.0,1.0,0.0,neutral
+B1,24293,I love soft porn with USHER involved  😂 😂 😍 😍 😍 😍,0.461,0.074,0.465,0.9682,strongly positive
+B1,24869,ual  🔥 🔥 😍 😍 ❤️ 👏,0.395,0.211,0.395,0.6369,strongly positive
+B1,24921,🔥 🔥 😍 😍 🔥 🔥,0.278,0.444,0.278,-0.3818,negative
+B1,24926,😍 🤤,0.375,0.0,0.625,0.4588,positive
+B1,25064,and the herpes does not show at all. A miracle. thanks kim  😍 😂,0.43,0.061,0.51,0.9118,strongly positive
+B1,25104,that man FINE!,0.585,0.0,0.415,0.4263,positive
+B1,25403,this marketing team  🔥 🔥 🙌 🏾,0.0,0.375,0.625,-0.5859,strongly negative
+B1,25529,don’t mind if I do  😍,0.273,0.0,0.727,0.4588,positive
+B1,25867,anyone else thinking what I’m thinking? herp…,0.0,0.0,1.0,0.0,neutral
+B2,26205,❤️ 😍 ❤️ 😍 ❤️ 😍 ❤️ 😍 ❤️ 😍 ❤️ 😍 ❤️ 😍 ❤️ ❤️ 😍 ❤️ 😍 ❤️ 😍 ❤️,0.357,0.0,0.643,0.9818,strongly positive
+B2,26425,🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍 🐍,0.0,1.0,0.0,-0.9981,strongly negative
+B2,26642,you know how your sis is! she’ll hold it for as long as she has to….that’s a superwoman right there  ❤️ 👏,0.13,0.0,0.87,0.5093,strongly positive
+B2,26672,yes ma’am!!! so freakin GORGEOUS! 😍 😍 😍 🙌 🏾 🔥,0.483,0.064,0.453,0.9497,strongly positive
+B2,27178,🤎 🤎 🤎 🤎 🤎 🤎 🤎 🤎 🤎,0.0,0.0,1.0,0.0,neutral
+B2,27303,stunning gorgeous incredible  ❤️ ❤️ ❤️ 🔥 🔥 🔥 🔥,0.284,0.414,0.302,-0.25,negative
+B2,27556,❤️ ❤️ ❤️ ❤️ 🔥 🔥 🔥,0.0,0.474,0.526,-0.7351,strongly negative
+B2,27645,🖤  🖤,0.808,0.0,0.192,0.8555,strongly positive
+B2,27849,love  ❤️  😍,0.59,0.0,0.41,0.802,strongly positive
+B3,28544,are they snakeskin boots,0.0,0.0,1.0,0.0,neutral
+B3,28636,nice 🤠,0.483,0.0,0.517,0.4215,positive
+B3,28647,I love love love love those boots .. pleaseeeeee I want them  😍 😍 😍 😍 😍,0.601,0.0,0.399,0.9862,strongly positive
+B3,28757,you look so beautiful,0.625,0.0,0.375,0.7177,strongly positive
+B3,28938,🤩 🤩,0.0,0.0,1.0,0.0,neutral
+B3,29553,and of course we live for it! 😍,0.248,0.0,0.752,0.5093,strongly positive
+B3,30097,this look is amazing  🔥 ❤️,0.339,0.214,0.446,0.34,positive
+B3,30278,🪴 💙 🌻,0.583,0.0,0.417,0.6369,strongly positive
+B3,30344,you are kim kardashian ofc u can buy it,0.0,0.0,1.0,0.0,neutral
+B4,31186,her hair is soo shiny and silky looking 🔥,0.0,0.231,0.769,-0.34,negative
+B5,32231,that’s the china squat,0.0,0.0,1.0,0.0,neutral
+B5,32459,2 assuming the position  😂 😂 😂,0.379,0.189,0.432,0.8271,strongly positive
+B5,32648,when you just gotta go...,0.0,0.0,1.0,0.0,neutral
+B5,34054,😂 😂 😂 😂 😂 😂 😂 😂potty  😂 😂 😂 😂,0.411,0.224,0.364,0.9818,strongly positive
+B5,34649,cute  ❤️,0.6,0.0,0.4,0.4588,positive
+B5,34796,hey KIM  🌞,0.0,0.0,1.0,0.0,neutral
+B5,34818,young forever  ❤️ 🔥 👏,0.319,0.255,0.426,0.1531,positive
+B5,34862,are you shitting in a cement toilet?,0.0,0.318,0.682,-0.4215,negative
+C1,35194,then unfollow,0.0,0.0,1.0,0.0,neutral
+C1,35221,it’s lowkey giving jen shah vibes,0.324,0.0,0.676,0.34,positive
+C1,35238,our fur has history it’s not just killing an animal for fur. not everyone is american. maybe look up others history before speaking on something you don’t understand lol and all my dogs are fixed today. so ya nice try,0.202,0.0,0.798,0.8553,strongly positive
+C1,35250,slay queen,0.0,0.0,1.0,0.0,neutral
+C1,35297,"A person's dreams visions are the most valid connection and are the keys to many secret worlds and real unuverses we never knew existed. this is the reason for a person having dreams because we need a way out of this designed passing dream which everyone thinks is the real conscious life but it's not. those who do not dream or remember their dreams by practicing the nusound, singing the nu~u~u before you fall asleep for 5-10 minutes you will start to have recollections as your real awareness steps in and the real universal guides will gently reveal your nu adventure to you.",0.15,0.018,0.831,0.9192,strongly positive
+C1,36343,the WE wear real fur took me out  😂 😂 😂 I’m pretty sure khloe can afford real fur IF she wanted to wear REAL fur she would have  😭,0.278,0.145,0.577,0.8779,strongly positive
+C1,36499,so beautiful chloe!  you & kourtney have always been my favorite,0.454,0.0,0.546,0.8169,strongly positive
+C1,36501,desperateeeeeeee to show off  😂,0.299,0.15,0.551,0.4404,positive
+C1,36960,sexy thing you. in the snow,0.405,0.0,0.595,0.5267,strongly positive
+C1,37057,yes mob wife vibes can I be a mob wife too 😁,0.289,0.0,0.711,0.6908,strongly positive
+C1,37501,khloe hotter than kim now,0.0,0.0,1.0,0.0,neutral
+C1,37548,this family makes me sick.,0.0,0.452,0.548,-0.5106,strongly negative
+C1,37569,ridiculous. self proclaimed mob vibes  😂  🙄 🥱 😴,0.171,0.198,0.631,0.1027,positive
+C2,38504,beauty always have and always will be  ❤️,0.322,0.0,0.678,0.5859,strongly positive
+C2,39088,best shoot you’ve ever done  😍,0.462,0.154,0.385,0.7003,strongly positive
+C2,39510,someone needs to get fired!  most ridiculous,0.0,0.572,0.428,-0.7707,strongly negative
+C2,39739,🍎 🕺,0.0,0.0,1.0,0.0,neutral
+C2,39949,love  🔥 🔥 🔥 🔥 🔥 🔥,0.226,0.774,0.0,-0.802,strongly negative
+C3A,40498,🔥 🔥 🔥 🔥queen,0.0,0.878,0.122,-0.7351,strongly negative
+C3A,40526,she's gorgepus beautiful sexy and hot the most cuttiest of her family huge fan  🥰 🥰 🥰 🥰 🥰 🥰 🥰 🥰 🥰 🥰 🥰 🥰 🥰,0.694,0.0,0.306,0.9988,strongly positive
+C3A,40717,👏 👏 👏 🔥 🔥 🔥 🙌 🙌 🙌 ❤️ ❤️,0.344,0.275,0.382,0.4215,positive
+C3A,41062,"god bless you, I love you",0.752,0.0,0.248,0.8442,strongly positive
+C3A,41750,you are a beautiful and attractive girl  👏 👏 ❤️ ❤️,0.587,0.0,0.413,0.9153,strongly positive
+C3B,42048,she ain't armenian  🤣her father is american,0.0,0.0,1.0,0.0,neutral
+C3B,42059,yasss for the tallssssss  🙌 👏 🔥,0.263,0.211,0.526,0.1531,positive
+C4,42694,"yeah we know, it's sad honestly and pathetic, I'll give you this you were smart enough to stay on the coattail and not f*** it up",0.221,0.19,0.588,0.0258,positive
+C4,43394,....without a doubt. but here I reckoned it was all just an adolescent hype  🔗 ⚎,0.094,0.0,0.906,0.1419,positive
+C5,43861,💙 🤍 💙 🤍,0.808,0.0,0.192,0.9571,strongly positive
+C5,43996,🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲🇨🇲 🫶 🏽 🫶 🏽love you,0.0,0.0,1.0,0.0,neutral
+C5,44179,love the light denim  😍 even in the winter  ❄️,0.396,0.0,0.604,0.802,strongly positive
+D1,45466,"""if you can't love the one you love, then love the one you're with"" SMH every picture of your LAY-DOWN-seks pose I don't believe you can read",0.222,0.169,0.608,0.4587,positive
+D1,45779,thank n love for your compliments  😘,0.67,0.0,0.33,0.9042,strongly positive
+D1,45864,"girl, you using falsies c‘mon  😭",0.0,0.307,0.693,-0.4767,negative
+D1,45927,hi queen,0.0,0.0,1.0,0.0,neutral
+D1,46431,LB CB  ❤️ 🖤 🤍 💚,0.725,0.0,0.275,0.9504,strongly positive
+D1,46616,🥶 🥶 🥶,0.0,0.0,1.0,0.0,neutral
+D1,46756,ICONIC… 🔥,0.0,0.706,0.294,-0.34,negative
+D1,46966,"hello, gorgeous... 😍",0.636,0.0,0.364,0.7906,strongly positive
+D2,47555,sexyyyy soow big,0.0,0.0,1.0,0.0,neutral
+D2,47754,i love kendallllllll,0.677,0.0,0.323,0.6369,strongly positive
+D2,47862,fellow classic porsche gal who respects other classic porsche gals who find freedom in a manual 993!  🔥,0.281,0.099,0.62,0.6588,strongly positive
+D2,48854,cute and nice car,0.744,0.0,0.256,0.7003,strongly positive
+D2,49077,"omg so hot, that girl is lucky",0.649,0.0,0.351,0.7501,strongly positive
+D2,49131,my name is not igor,0.0,0.0,1.0,0.0,neutral
+D3,49680,"I won’t start  🥹
+love you  ❤️ maybe need a break from me tagging you on X",0.198,0.0,0.802,0.6369,strongly positive
+D3,49775,dont even bother with the K /UM DU /MP shes been ban /ged so many times her braings have been fo /cked out. they’ve lost their influence and are desperatly trying to get attention but they know its over.,0.037,0.095,0.868,-0.3468,negative
+D3,49934,❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️,0.0,0.0,1.0,0.0,neutral
+D3,50836,"wanna hear a joke... all I got to do,is,touch my feet n spell R.U.N. 3 times  😃",0.198,0.0,0.802,0.5719,strongly positive
+D3,50886,absolutely gorgeous as usual!! 👏 👏 ❤️,0.685,0.0,0.315,0.8974,strongly positive
+D3,51624,pretty 😍 😍,0.605,0.0,0.395,0.8481,strongly positive
+D3,51626,how is everything? you look like you're having fun.,0.453,0.0,0.547,0.7003,strongly positive
+D3,51727,and threesome « ménage à trois » with   😂 😂,0.299,0.15,0.551,0.7003,strongly positive
+D3,51850,pristinely breathtaking and stunning pictures.  you should frame them,0.444,0.0,0.556,0.6808,strongly positive
+D4,52554,ur naturally pretty...A gift,0.492,0.0,0.508,0.4404,positive
+D4,52655,olalala elle me saoule IM NOT INTERESTED THANK YOU,0.0,0.438,0.562,-0.6655,strongly negative
+D4,52686,🌼 ✨ 🦋,0.535,0.0,0.465,0.3182,positive
+D4,53375,nhi degi bhai kyu sabse pehle muh uthake pahuch jata hai like krne,0.172,0.0,0.828,0.3612,positive
+D4,53653,your my love,0.677,0.0,0.323,0.6369,strongly positive
+D4,53703,"fortunately it is, she doesn’t seem to have any values",0.231,0.0,0.769,0.4019,positive
+D4,54006,how can u be so perfect  🥺 ♥️ 🫶 🏻,0.427,0.0,0.573,0.8733,strongly positive
+D4,54219,"what me?, weirdo 💀 bro it's 12:12 PM rn",0.0,0.259,0.741,-0.4215,negative
+D4,55866,❤️ ❤️  🔥 🔥  👼 👼,0.0,0.375,0.625,-0.5859,strongly negative
+D4,55945,nawww I’m so happy your wearing what I got u  💪 🏾,0.253,0.0,0.747,0.6948,strongly positive
+D5,56490,I ❤️ 🥹 😍,0.3,0.0,0.7,0.4588,positive
+D5,56598,🧑‍ 🎄,0.0,0.0,1.0,0.0,neutral
+D5,56720,💀 💀,0.0,0.0,1.0,0.0,neutral
+D5,56732,🌧️ 🌧️ 🌧️ 🌧️ 🌧️ 🌧️,0.0,0.0,1.0,0.0,neutral
+D5,56867,there’s a difference between super cute and delicious.  weirdo,0.576,0.152,0.272,0.8316,strongly positive
+D5,57256,you look like a real xmas gift all wrapped up  🎄ready to enjoy the xmas evening  🌹 💕,0.446,0.0,0.554,0.9169,strongly positive
+D5,57486,😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉 😉,0.0,0.0,1.0,0.0,neutral
+D5,57717,"I dont like  her,shes tryna  be better than kimmy",0.241,0.176,0.583,0.1999,positive
+D5,57739,gorgeous dear  🔥,0.733,0.267,0.0,0.6369,strongly positive
+D5,57890,you looked sensational kendoll,0.0,0.0,1.0,0.0,neutral
+D5,58192,the only natural beauty,0.759,0.0,0.241,0.743,strongly positive
+D5,58320,you are beautiful kendall.,0.565,0.0,0.435,0.5994,strongly positive
+D5,58439,you radiate!!  ❤️,0.0,0.0,1.0,0.0,neutral
+D5,58828,you would look amazing in this dress,0.388,0.0,0.612,0.5859,strongly positive
+D5,58874,kendall is my love  💓 end of storie  💓  🙋‍ ♂️,0.669,0.0,0.331,0.9756,strongly positive
+D5,59308,how do you know.?,0.0,0.0,1.0,0.0,neutral
+D5,59819,I love you bbe,0.583,0.0,0.417,0.6369,strongly positive
+D5,60006,is that the  nipple bra?,0.0,0.0,1.0,0.0,neutral
+D5,60018,my cute girlll 🦋 🦦,0.429,0.0,0.571,0.4588,positive
+D5,60097,gorgeous kendall！ 🔥,0.541,0.324,0.135,0.3818,positive
+D5,60146,SO BEAUTIFUL  ❤️ 🔥 😍,0.508,0.141,0.352,0.8052,strongly positive
+D5,60243,👅 👅 🍑 🍑,0.0,0.0,1.0,0.0,neutral
+D5,61138,up yours,0.0,0.0,1.0,0.0,neutral
+D5,61433,prettyyyy  😍 ❤️ 👏 👏,0.6,0.0,0.4,0.8402,strongly positive
+D5,62005,breathtaking beauty  😍 🔥 ❤️ 👏,0.634,0.119,0.248,0.886,strongly positive
+E1,62511,she’s just promoting her product that’s at target,0.263,0.0,0.737,0.3612,positive
+E1,62736,"obviously I can't stop them, right? gees",0.239,0.0,0.761,0.2235,positive
+E1,63128,it's a shoot you fool!,0.0,0.651,0.349,-0.68,strongly negative
+E1,63317,literally my favourite kardashian,0.0,0.0,1.0,0.0,neutral
+E1,63757,your full of energy,0.412,0.0,0.588,0.2732,positive
+E1,63798,"just another ploy for a ""celebrity"" to try & make money off of people.",0.0,0.0,1.0,0.0,neutral
+E1,64234,❤️ ❤️ ❤️ 🔜 🔜 🔜 🔜 💋 💋 💋 💋,0.384,0.0,0.616,0.8807,strongly positive
+E2,64559,🔥tht jacket looks so beautiful on you kourtney we luv you,0.333,0.0,0.667,0.7177,strongly positive
+E2,64720,why don't y'all mine your business and find something to do instead of worrying about other people's problems,0.0,0.242,0.758,-0.6249,strongly negative
+E2,64910,the coolest,0.0,0.0,1.0,0.0,neutral
+E2,65395,it’s the best product been using it for over a week I’m so impressed.  ❤️thank you,0.353,0.0,0.647,0.8478,strongly positive
+E2,65402,good night kut,0.592,0.0,0.408,0.4404,positive
+E2,65438,and they are sold out at my target!,0.0,0.0,1.0,0.0,neutral
+E2,65705,congratulations  🎉 that’s huge,0.817,0.0,0.183,0.836,strongly positive
+E2,65761,"the thinkie winks cartoon characters encourage kids to think positive thru love,kindness, peace and self control. the thinkie winks worldwide weekly cartoon series is so necessary!",0.317,0.0,0.683,0.8932,strongly positive
+E2,65785,"lemme purr has been a heavens sent to my kitty, thanks kourt  💅 🏻",0.272,0.0,0.728,0.6808,strongly positive
+E2,65806,I look at every target- still not there!,0.0,0.0,1.0,0.0,neutral
+E2,65914,did they close the store  😂! was the store organic enough for kourtney  😂 😂,0.305,0.148,0.547,0.8398,strongly positive
+E2,65932,wish my target had more of a selection of lemme vitamins. they only have 2,0.162,0.0,0.838,0.4019,positive
+E2,66244,how tf she look like that in the security camera and I look like a damn potato when I look at myself in the camera  🤣 go kourtney!,0.268,0.067,0.665,0.8016,strongly positive
+E2,66409,"and here you are, commenting which does actually support her algorithm. played yourself",0.317,0.0,0.683,0.6249,strongly positive
+E2,66841,dude you’re like the best  ❤️,0.573,0.0,0.427,0.7717,strongly positive
+E3,67209,🔥 gorgeousness,0.619,0.381,0.0,0.3612,positive
+E3,67249,love your energy  ❤️,0.677,0.0,0.323,0.743,strongly positive
+E3,67292,🍾 🥂  love u both  xx,0.318,0.0,0.682,0.6369,strongly positive
+E3,67450,she is an amazing mom. the only decent parent on the show,0.257,0.0,0.743,0.5859,strongly positive
+E3,67455,Ĥappy new year ...best wishes to you and husband ; he is indeed a hero..is it a boy or  girl.. ❤️..stay  🔥warm,0.216,0.0,0.784,0.7003,strongly positive
+E3,67555,not the cozy coat  🖤 😂,0.447,0.106,0.447,0.7964,strongly positive
+E3,67745,in love with that coat!,0.529,0.0,0.471,0.6696,strongly positive
+E3,67877,girl you look fantatic thick,0.0,0.0,1.0,0.0,neutral
+E3,68161,body look like it’s bodying .. the natural way  ❤️‍ 🔥,0.305,0.146,0.549,0.3818,positive
+E3,68281,not me watching KUWTK while looking at this picture  😹,0.203,0.102,0.695,0.4404,positive
+E3,68664,I don't understand why you wrote me that and what you're laughing about. are you ok?,0.176,0.0,0.824,0.4939,positive
+E3,69018,you look good honey 🔥,0.349,0.289,0.361,0.128,positive
+E3,69232,merry christmas  🎁 🎄,0.615,0.0,0.385,0.7506,strongly positive
+E3,69414,almost didn't recognize you!  ❤️,0.0,0.0,1.0,0.0,neutral
+E3,69487,the other possible reason is you just didn’t want to wear clothes because you and your sisters- the ones that birth their own kids hide your figures for at least a year after birth because you can’t possibly be human or relatable and show a postpartum body.,0.027,0.035,0.938,-0.1027,negative
+E3,69696,too relatable,0.0,0.0,1.0,0.0,neutral
+E3,70119,looking friggin beautiful  ❤️,0.512,0.0,0.488,0.6361,strongly positive
+E3,70690,merry christmas queen  👸,0.538,0.0,0.462,0.5423,strongly positive
